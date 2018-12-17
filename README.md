@@ -1,6 +1,6 @@
 # ADM Homework 05 - Group #18
 
-Roberta Passarelli - Giorgio Zannini Quirini
+Roberta Passarelli - Giorgio Zannini Quirini - (Sravya Chowdary)
 
 Our goal is to analyse the `Wikipedia Hyperlink graph`: we will rank the pages knowing that they belong to a certain category.
 
